@@ -1,0 +1,201 @@
+*{margin: 0; padding: 0;}
+
+div {
+
+background: white;
+text-align: center;
+}
+
+
+h1 {
+text-align: center;
+letter-spacing: 2px;
+background: white;
+font-family: 'Montserrat', sans-serif;
+color: #3B444B;
+text-align: center;
+font-size: 38px;
+}
+
+p {
+
+font-family: 'Montserrat', sans-serif;
+
+font-size: 18px;
+
+}
+
+
+
+h2 {
+font-family: 'Syncopate', sans-serif;
+font-size: 18px;
+font-weight: lighter;
+
+
+}
+
+div {
+
+                            
+     padding: 70px;                             /* Internal space */
+     border-radius: 30px;                        /* Small radius */
+     box-shadow: 0 20px 30px rgba(0,0,0,.1);
+     width: 800px;     /* Fix the width first*/
+     margin: 50px auto; /* Let CSS compute the same left & right margins automatically*/    /* Light shadow */
+    
+}
+
+
+
+.container{
+box-shadow: 0px 10px 30px 
+
+ width: 850px;
+  margin: 100px auto;
+  background-color: white;
+  }
+
+}
+
+
+
+footer {
+	background: black;
+	color: black;
+	font-family: 'Anton', sans-serif;
+
+	text-align: center;
+	font-size: 15px;
+}
+
+
+
+
+.card-white {
+
+  background-color: white;
+  padding: 40px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0,1);
+  border-radius: 4px
+  margin 20px 0px;
+  text-align: center;
+font-family: 'Cabin Condensed', sans-serif;
+	font-size: 25px;
+
+
+  }
+
+.list-inline {
+
+	list-style: none;
+	padding-left: 0px
+}
+
+.list-inline {
+
+	display: inline;
+	padding: 10px;
+}
+
+
+
+
+
+
+
+a {
+	text-decoration: none;
+	color: #4392F1;
+    text-align: center;
+
+
+ }
+
+
+a:hover {
+	color: pink;
+	text-decoration: none;
+	text-decoration: underline;
+    text-align: center;
+}
+
+
+  
+
+
+
+
+
+
+
+
+
+@media (max-width: 500px) {
+  .container{
+  
+  }
+
+}
+
+@media (max-width: 720px) {
+
+	.container{
+		width: 500px; 
+	}
+}
+
+@media (max-width: 540px) {
+
+	.container{
+		width: 300px; 
+	}
+}
+
+
+
+@media (max-width: 500px) {
+  .card-white{
+  
+  }
+
+}
+
+@media (max-width: 720px) {
+
+	.card-white{
+		width: 500px; 
+	}
+}
+
+@media (max-width: 540px) {
+
+	.card-white{
+		width: 300px; 
+	}
+}
+
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  width: 150px;
+  border-radius: 18px;
+ margin-top: : -50px;"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
